@@ -1,0 +1,12 @@
+.container{
+    background-color: aqua;
+}
+h3{
+   
+}
+.icons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
