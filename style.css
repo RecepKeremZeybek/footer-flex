@@ -6,8 +6,12 @@
 .footer{
     background-color: chocolate;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
+    gap:100px;
     align-items: center;
+    position:fixed;
+    bottom: 0;
+    width: 100%;
 }
 
 .container{
