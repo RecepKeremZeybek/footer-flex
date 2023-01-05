@@ -1,8 +1,8 @@
 .container{
+    width: 230px;
     background-color: aqua;
-}
-h3{
-   
+    padding: 15px;
+    text-align: center;
 }
 .icons{
     display: flex;
